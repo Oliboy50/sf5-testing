@@ -1,0 +1,4 @@
+m6web_guzzlehttp:
+    clients:
+        default:
+            base_uri: https://raw.githubusercontent.com
